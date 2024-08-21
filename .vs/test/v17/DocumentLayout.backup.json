@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\johan\\OneDrive\\Documents\\clone\\test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johan\\OneDrive\\Documents\\clone\\test\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johan\\OneDrive\\Documents\\clone\\test\\Dara.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dara.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johan\\OneDrive\\Documents\\clone\\test\\mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -31,32 +23,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Dara.txt",
-              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\clone\\test\\Dara.txt",
-              "RelativeDocumentMoniker": "Dara.txt",
-              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\clone\\test\\Dara.txt",
-              "RelativeToolTip": "Dara.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-21T06:19:46.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\clone\\test\\index.html",
-              "RelativeDocumentMoniker": "index.html",
-              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\clone\\test\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-21T06:16:11.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "myscript.js",
               "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\clone\\test\\myscript.js",
               "RelativeDocumentMoniker": "myscript.js",
@@ -69,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "mystyle.css",
               "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\clone\\test\\mystyle.css",
               "RelativeDocumentMoniker": "mystyle.css",
