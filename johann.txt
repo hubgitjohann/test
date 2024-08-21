@@ -6,9 +6,10 @@ hi, this is the update.
 
 johann update 1 2 3
 
+<<<<<<< Updated upstream
 haibk
 
- main main
+ main
 =======
 haibk 
 changes
