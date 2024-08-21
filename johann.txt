@@ -7,10 +7,15 @@ hi, this is the update.
 johann update 1 2 3
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 haibk
 
  main
 =======
 haibk 
 changes
+>>>>>>> Stashed changes
+=======
+haibk 
+change
 >>>>>>> Stashed changes
